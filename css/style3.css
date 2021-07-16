@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 247, 131);
+    }
+    h3{
+        text-decoration: underline;
+        text-align:center;
+    }
+    p{
+        text-align: justify;
+    }
+    a{
+        color:rgb(189, 160, 0);
+    }

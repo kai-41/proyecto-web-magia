@@ -1,0 +1,14 @@
+body {
+background-color: rgb(219, 219, 248);
+}
+h3{
+    text-decoration: underline;
+    text-align:center;
+}
+
+p{
+    text-align: justify;
+}
+a{
+    color:rgb(17, 0, 255);
+}
